@@ -29,7 +29,7 @@ systemctl restart systemd-journald
 strided status 2>&1 | jq .SyncInfo
 ```
 
-### Faucet için; Discorda katılmayı unutmayın. ( https://discord.gg/rDZPaqYd )
+### Faucet için; Discorda katılmayı unutmayın. ( https://discord.gg/ggQewkUa )
 
 ### Validator Olmak İçin;
 
